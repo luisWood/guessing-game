@@ -6,7 +6,7 @@ The intention of this API is to hold a simple API with which the user, thinking 
 
 ## Start App
 To start the application run:
-> python flask/main.py
+> python main.py
 
 This will launch the API accessible via <b>localhost:5000</b>
 <br>
